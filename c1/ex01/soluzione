@@ -13,8 +13,8 @@ your group.
 
 per risolvere questo problema
 ho fatto un file testDay00  
-ci ho messo dentro 40 caratteri su una linea (1 char 1byte)
-potevo metterci degli int *4bytes  ma volevo fare in modo diverso
+ci ho messo dentro  10 numeri su una linea (1 int 4byte)
+
   sono dovuto diventare admin :
 sudo su
 ho cambiato i permessi usando :
