@@ -13,7 +13,7 @@ your group.
 
 per risolvere questo problema
 ho fatto un file testDay00  
-ci ho messo dentro  10 numeri su una linea (1 int 4byte)
+ci ho messo dentro  40 caratteri
 
   sono dovuto diventare admin :
 sudo su
@@ -32,3 +32,7 @@ total 4
 -r--r-x--x 1 mylogin weel 40 Aug 20 13:54 testDay00
 
 ora devo fare un file testDay00.tar :
+
+tar -cf 
+-v verbose
+-x xtract
