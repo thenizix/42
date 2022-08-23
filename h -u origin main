@@ -1,0 +1,97 @@
+[33mcommit 2bc5edf67127353a1c71c81c993694bb9e259065[m[33m ([m[1;36mHEAD -> [m[1;32mbridge[m[33m)[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Tue Aug 23 08:13:35 2022 -0700
+
+    edit
+
+[33mcommit 3bcec939209565ae57ec68121ec8621b1c018a69[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Mon Aug 22 16:08:01 2022 -0700
+
+    soon will erase to organize as have to be
+
+[33mcommit b6b36ebebb67bd8f7183f2654fea2ee6a1e96e4d[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sun Aug 21 09:56:36 2022 -0700
+
+    fix2
+
+[33mcommit 2a76d9d92413f7f172c397901728c8af56a3992e[m
+Merge: d22e6d0 1024384
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sun Aug 21 09:53:21 2022 -0700
+
+    fix branch
+
+[33mcommit d22e6d022f9d6eb544d893b0470da3f36e2bf836[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sat Aug 20 17:30:39 2022 -0700
+
+    added 42-piscine folder from Pasquale Rossi brilliant's repo,just to follow a program
+
+[33mcommit 1024384291e1d56b6a5c0701e0f84929936ac3b7[m
+Author: Nizix <39137646+thenizix@users.noreply.github.com>
+Date:   Sun Aug 21 02:19:06 2022 +0200
+
+    Add files via upload
+
+[33mcommit 6d643e934825bac6cd15f87bf3d31a45d52a32f3[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sat Aug 20 16:07:56 2022 -0700
+
+    added folder es_c ,instructions,solved ex01
+
+[33mcommit 3b3c24fb8153e27814e9294c45c582266695b393[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sat Aug 20 08:51:02 2022 -0700
+
+    riscritto test. e submitted to norminette
+
+[33mcommit 9723bde45752a364131feb31c7340ac0675d3018[m
+Merge: f8f2ebc dc95787
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sat Aug 20 07:17:44 2022 -0700
+
+    fixing error
+
+[33mcommit f8f2ebcecacd89849cb95ffeeb0159ed2859a4ee[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Sat Aug 20 07:09:02 2022 -0700
+
+    merge number one
+
+[33mcommit dc9578762ec7fa697d625c1bfdcc31e7255c9197[m
+Author: Nizix <39137646+thenizix@users.noreply.github.com>
+Date:   Sat Aug 20 13:29:30 2022 +0200
+
+    Update README.md
+
+[33mcommit 242a3e60fd0c71907fc8f4dd30a3417eee0a872f[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Fri Aug 19 13:32:18 2022 -0700
+
+    aggiunti script c giorno 00
+
+[33mcommit f522e2caaef152348652c05b14787f749c86414e[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Fri Aug 19 09:16:31 2022 -0700
+
+    added custom library build
+
+[33mcommit 09175028debc31b3964ec3d585dba660e1285ff4[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Fri Aug 19 06:03:38 2022 -0700
+
+    added c files and a script in bash
+
+[33mcommit bceefeff700de427537c728105f1f9cd9c6fb5ab[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Thu Aug 18 15:47:02 2022 -0700
+
+    added readme
+
+[33mcommit 1687b75ff1adc14b3335d32d8799263fbd89dfd9[m
+Author: nizix <daniele.nencini@gmail.com>
+Date:   Thu Aug 18 15:41:46 2022 -0700
+
+    first commit
